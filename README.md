@@ -1,1 +1,1 @@
-# python-darslari1
+# python darslariga oid kodlar
